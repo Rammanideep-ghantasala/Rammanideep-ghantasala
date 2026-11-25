@@ -58,7 +58,7 @@ Approach    : Understand the problem. Build it. Test it. Improve it.
 | --- | --- | --- |
 | [🧠 Agentic Text-to-SQL Assistant](https://github.com/Rammanideep-ghantasala/Agentic-Text-to-SQL-Analytics-Assistant) | Turns natural-language questions into SQL with schema-aware retrieval, validation, human review, and visualizations. | FastAPI · LangGraph · Next.js · PostgreSQL |
 | [🗄️ Distributed Object Storage](https://github.com/Rammanideep-ghantasala/Haystack-object-storage-dynamic-replication) | A Haystack-inspired object store with consistent-hash caching and replication that adapts to access patterns. | Python · FastAPI · Redis · Docker · NGINX |
-| [🎟️ VORTEX'26 EventOps](https://github.com/Rammanideep-ghantasala/VORTEX-26-EventOps-Command-Center) | Manages event registration, check-ins, accommodation, and workshop capacity with role-based staff access. | Kotlin · Spring Boot · React · PostgreSQL |
+| [🎟️ VORTEX’26 Scalable Event Management Platform](https://github.com/Rammanideep-ghantasala/VORTEX-26-EventOps-Command-Center) | Manages event registration, check-ins, accommodation, and workshop capacity with role-based staff access. | Kotlin · Spring Boot · React · PostgreSQL |
 | [⚡ British Auction RFQ Platform](https://github.com/Rammanideep-ghantasala/British-Auction-in-RFQ-System) | Handles supplier bidding, automatic auction extensions, scheduled closing, and audit trails. | FastAPI · React · PostgreSQL · Redis · Celery |
 
 <p align="center">
